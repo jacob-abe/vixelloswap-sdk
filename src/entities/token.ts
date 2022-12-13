@@ -83,16 +83,16 @@ export const WETH = {
   //Todo change mainnet address
   [ChainId.NEON_MAINNET]: new Token(
     ChainId.NEON_MAINNET,
-    '0x11adC2d986E334137b9ad0a0F290771F31e9517F',
+    '0x530976c537f6F0685218C834792AC00D9ee19a5f',
     18,
-    'WETH',
-    'Wrapped NEON'
+    'WETH9',
+    'Wrapped BNB'
   ),
   [ChainId.NEON_DEVNET]: new Token(
     ChainId.NEON_DEVNET,
-    '0x11adC2d986E334137b9ad0a0F290771F31e9517F',
+    '0x530976c537f6F0685218C834792AC00D9ee19a5f',
     18,
-    'WETH',
-    'Wrapped NEON'
+    'WETH9',
+    'Wrapped BNB'
   )
 }
