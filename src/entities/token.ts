@@ -85,14 +85,14 @@ export const WETH = {
     ChainId.NEON_MAINNET,
     '0x11adC2d986E334137b9ad0a0F290771F31e9517F',
     18,
-    'WNEON',
+    'WETH',
     'Wrapped NEON'
   ),
   [ChainId.NEON_DEVNET]: new Token(
     ChainId.NEON_DEVNET,
     '0x11adC2d986E334137b9ad0a0F290771F31e9517F',
     18,
-    'WNEON',
+    'WETH',
     'Wrapped NEON'
   )
 }
